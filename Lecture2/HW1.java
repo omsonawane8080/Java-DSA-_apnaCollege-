@@ -7,7 +7,7 @@ int year = 2025;
 int studentCount = 120;
 
 // Floating
-Floating-point (float, double)
+Floating point (float, double)
 float temperature = 36.5f;
 
 // Double
