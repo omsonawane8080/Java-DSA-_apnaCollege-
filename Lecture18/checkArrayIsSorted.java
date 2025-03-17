@@ -1,4 +1,4 @@
-public class Recursion2 {
+public class checkArrayIsSorted {
     public static boolean checkIfIncreasing(int arr[], int idx) {
    if(idx == arr.length-1) {
     return true;
